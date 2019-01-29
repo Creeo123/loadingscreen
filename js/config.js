@@ -134,7 +134,7 @@ var l_messages = [
 	"Enjoy the server",
 	"Thanks for joining us!",
 	"Make sure to leave feedback to the staff of Warlord Gaming!",
-	"Make sure to thank @flights4ever#3119 on discord for developing the server!",
+	"Make sure to thank @Black Templar#5919 and 🐶Sir Puggington🐶#6122 on discord for hosting the server!",
 	"Did you know the server is hosted in the US?",
 ];
 
