@@ -75,6 +75,7 @@ var l_bgImages = [
 	"nedlasti.jpg",
 	"nedlastin.jpg",
 	"nedlasting.jpg",
+	"571425u-960.jpg",
 ];
 
 // (Image-background only)
