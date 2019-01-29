@@ -113,6 +113,7 @@ var l_musicDisplay = true;
 // (Place the ogg files in the music folder)
 // (You can also use external URL for the ogg files)
 var l_musicPlaylist = [
+	{ogg: "1.ogg", name: "30 Seconds To Mars - Edge of the earth"},
 	{ogg: "2.ogg", name: "The Unit - Fired Up"},
 ];
 
