@@ -76,6 +76,8 @@ var l_bgImages = [
 	"nedlastin.jpg",
 	"nedlasting.jpg",
 	"571425u-960.jpg",
+	"baltimore-riot-police-car-AFP-640x480.jpg",
+	"ad127607463riot-police-clas.jpg",
 ];
 
 // (Image-background only)
