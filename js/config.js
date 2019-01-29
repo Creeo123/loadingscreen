@@ -113,7 +113,6 @@ var l_musicDisplay = true;
 // (Place the ogg files in the music folder)
 // (You can also use external URL for the ogg files)
 var l_musicPlaylist = [
-	{ogg: "1.ogg", name: "BOPE - I am the devil"},
 	{ogg: "2.ogg", name: "The Unit - Fired Up"},
 ];
 
@@ -133,7 +132,9 @@ var l_messagesEnabled = true;
 var l_messages = [
 	"Enjoy the server",
 	"Thanks for joining us!",
-	"Be sure to leave feedback to the staff of Warlord Gaming!",
+	"Make sure to leave feedback to the staff of Warlord Gaming!",
+	"Make sure to thank @flights4ever#3119 on discord for developing the server!",
+	"Did you know the server is hosted in the US?",
 ];
 
 // Random message order?
