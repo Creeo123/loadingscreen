@@ -10,7 +10,7 @@
 // Leave it blank to use text instead
 // (Put the files in the images folder)
 // (You can also use external URL)
-var l_serverImage = "logo2.png";
+var l_serverImage = "KTN2 white.png";
 
 // Center logo?
 // 'true' or 'false'
